@@ -20,5 +20,3 @@
 #### Mobile:
 <img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
-
-The first rule of any technology used in business is that automation applied to an efficient operation will increase efficiency.The second is that automation applied to an inefficient operation will increase inefficiency.
